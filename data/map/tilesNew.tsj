@@ -1,0 +1,14 @@
+{ "columns":17,
+ "image":"..\/img\/image__8_-removebg-preview.png",
+ "imageheight":418,
+ "imagewidth":597,
+ "margin":0,
+ "name":"newset",
+ "spacing":0,
+ "tilecount":187,
+ "tiledversion":"1.11.0",
+ "tileheight":35,
+ "tilewidth":35,
+ "type":"tileset",
+ "version":"1.10"
+}
